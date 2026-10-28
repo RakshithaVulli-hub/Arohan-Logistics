@@ -1,0 +1,6 @@
+{
+  "name": "Micro Cold Chain Supply Logistics",
+  "description": "AI-Powered & IoT-Enabled Smart Cold-Chain Platform for Small and Marginal Farmers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
